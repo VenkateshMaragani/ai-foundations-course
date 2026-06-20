@@ -1,0 +1,295 @@
+
+Inverse Mutation
+Runs: 30
+Population Size: 150
+Generations Size: 500
+Mutation Rate : 0.15
+Local Search Probability : 0.15
+Elite Fraction: 0.15
+Randomness in Crossover: 1
+Run 1/30: best_len=7548.99, time=7.527s
+Run 2/30: best_len=7544.37, time=7.573s
+Run 3/30: best_len=7544.37, time=7.480s
+Run 4/30: best_len=7544.37, time=7.481s
+Run 5/30: best_len=7548.99, time=7.513s
+Run 6/30: best_len=7548.99, time=7.484s
+Run 7/30: best_len=7544.37, time=7.499s
+Run 8/30: best_len=7548.99, time=7.551s
+Run 9/30: best_len=7601.05, time=7.534s
+Run 10/30: best_len=7544.37, time=7.478s
+Run 11/30: best_len=7544.37, time=7.525s
+Run 12/30: best_len=7544.37, time=7.477s
+Run 13/30: best_len=7544.37, time=7.506s
+Run 14/30: best_len=7548.99, time=7.474s
+Run 15/30: best_len=7544.37, time=7.524s
+Run 16/30: best_len=7544.37, time=7.531s
+Run 17/30: best_len=7658.96, time=7.491s
+Run 18/30: best_len=7544.37, time=7.477s
+Run 19/30: best_len=7544.37, time=7.520s
+Run 20/30: best_len=7544.37, time=7.650s
+Run 21/30: best_len=7544.37, time=7.571s
+Run 22/30: best_len=7544.37, time=7.420s
+Run 23/30: best_len=7544.37, time=7.436s
+Run 24/30: best_len=7544.37, time=7.448s
+Run 25/30: best_len=7544.37, time=7.467s
+Run 26/30: best_len=7544.37, time=7.498s
+Run 27/30: best_len=7658.96, time=7.499s
+Run 28/30: best_len=7544.37, time=7.465s
+Run 29/30: best_len=7548.99, time=7.442s
+Run 30/30: best_len=7544.37, time=7.538s
+
+=== Summary ===
+Runs: 30
+Avg Length: 7554.82
+Best Length: 7544.37
+Avg Runtime: 7.503s\n
+Optimum: 7542, Error: 0.03%
+Saved plot results/Berlin52_results.png
+
+***********************************************************************************
+
+Inverse Mutation
+Runs: 30
+Population Size: 100
+Generations Size: 500
+Mutation Rate : 0.15
+Local Search Probability : 0.15
+Elite Fraction: 0.15
+Randomness in Crossover: 1
+Run 1/30: best_len=35730.14, time=25.196s
+Run 2/30: best_len=34947.90, time=25.157s
+Run 3/30: best_len=35237.93, time=24.660s
+Run 4/30: best_len=34821.44, time=25.202s
+Run 5/30: best_len=35431.72, time=25.068s
+Run 6/30: best_len=35144.27, time=24.920s
+Run 7/30: best_len=35109.68, time=24.672s
+Run 8/30: best_len=35451.37, time=25.164s
+Run 9/30: best_len=35171.07, time=24.874s
+Run 10/30: best_len=35079.13, time=24.630s
+Run 11/30: best_len=35230.32, time=24.664s
+Run 12/30: best_len=35111.97, time=24.915s
+Run 13/30: best_len=35914.30, time=25.178s
+Run 14/30: best_len=35631.66, time=25.110s
+Run 15/30: best_len=35004.92, time=24.797s
+Run 16/30: best_len=35085.82, time=24.878s
+Run 17/30: best_len=35367.39, time=24.613s
+Run 18/30: best_len=35286.34, time=25.017s
+Run 19/30: best_len=35804.50, time=25.263s
+Run 20/30: best_len=34903.31, time=24.914s
+Run 21/30: best_len=35833.39, time=24.758s
+Run 22/30: best_len=35843.08, time=24.996s
+Run 23/30: best_len=35572.73, time=25.203s
+Run 24/30: best_len=35792.44, time=25.074s
+Run 25/30: best_len=34939.03, time=24.747s
+Run 26/30: best_len=35361.46, time=25.011s
+Run 27/30: best_len=35000.09, time=25.000s
+Run 28/30: best_len=35694.30, time=25.072s
+Run 29/30: best_len=35266.17, time=25.009s
+Run 30/30: best_len=35376.49, time=24.644s
+
+=== Summary ===
+Runs: 30
+Avg Length: 35338.15
+Best Length: 34821.44
+Avg Runtime: 24.947s\n
+Optimum: 27686, Error: 25.77%
+Saved plot results/Atta523_results_run_.png
+
+***********************************************************************************
+
+Inverse Mutation
+Runs: 30
+Population Size: 150
+Generations Size: 500
+Mutation Rate : 0.15
+Local Search Probability : 0.15
+Elite Fraction: 0.15
+Randomness in Crossover: 1
+Run 1/30: best_len=6336.67, time=19.817s
+Run 2/30: best_len=6316.04, time=19.730s
+Run 3/30: best_len=6269.73, time=19.708s
+Run 4/30: best_len=6360.81, time=19.904s
+Run 5/30: best_len=6445.65, time=19.620s
+Run 6/30: best_len=6362.52, time=20.043s
+Run 7/30: best_len=6360.77, time=19.929s
+Run 8/30: best_len=6383.66, time=19.626s
+Run 9/30: best_len=6319.74, time=20.028s
+Run 10/30: best_len=6470.05, time=19.623s
+Run 11/30: best_len=6302.66, time=19.664s
+Run 12/30: best_len=6286.23, time=19.932s
+Run 13/30: best_len=6436.47, time=19.354s
+Run 14/30: best_len=6435.91, time=19.682s
+Run 15/30: best_len=6406.16, time=20.002s
+Run 16/30: best_len=6380.92, time=19.588s
+Run 17/30: best_len=6465.22, time=19.749s
+Run 18/30: best_len=6316.87, time=19.664s
+Run 19/30: best_len=6405.40, time=19.840s
+Run 20/30: best_len=6322.12, time=19.784s
+Run 21/30: best_len=6348.89, time=19.605s
+Run 22/30: best_len=6338.77, time=19.695s
+Run 23/30: best_len=6452.13, time=19.709s
+Run 24/30: best_len=6389.80, time=19.647s
+Run 25/30: best_len=6462.61, time=19.358s
+Run 26/30: best_len=6305.82, time=19.693s
+Run 27/30: best_len=6423.93, time=19.456s
+Run 28/30: best_len=6314.88, time=19.935s
+Run 29/30: best_len=6349.84, time=19.427s
+Run 30/30: best_len=6432.13, time=19.771s
+
+=== Summary ===
+Runs: 30
+Avg Length: 6373.41
+Best Length: 6269.73
+Avg Runtime: 19.719s\n
+Backend tkagg is interactive backend. Turning interactive mode on.
+Optimum: 6110, Error: 2.61%
+Saved plot results/Ch130_results.png
+
+***********************************************************************************
+
+Inverse Mutation
+Runs: 30
+Population Size: 150
+Generations Size: 500
+Mutation Rate : 0.15
+Local Search Probability : 0.15
+Elite Fraction: 0.15
+Randomness in Crossover: 1
+Run 1/30: best_len=674.36, time=14.688s
+Run 2/30: best_len=664.57, time=14.628s
+Run 3/30: best_len=670.11, time=14.717s
+Run 4/30: best_len=662.83, time=14.727s
+Run 5/30: best_len=669.86, time=14.625s
+Run 6/30: best_len=667.17, time=14.837s
+Run 7/30: best_len=663.67, time=14.609s
+Run 8/30: best_len=668.10, time=14.717s
+Run 9/30: best_len=661.66, time=14.616s
+Run 10/30: best_len=669.32, time=14.648s
+Run 11/30: best_len=676.40, time=14.621s
+Run 12/30: best_len=667.98, time=14.525s
+Run 13/30: best_len=678.12, time=14.787s
+Run 14/30: best_len=663.48, time=14.726s
+Run 15/30: best_len=659.98, time=14.609s
+Run 16/30: best_len=657.04, time=14.791s
+Run 17/30: best_len=659.88, time=14.674s
+Run 18/30: best_len=668.95, time=14.675s
+Run 19/30: best_len=666.87, time=14.530s
+Run 20/30: best_len=657.01, time=14.660s
+Run 21/30: best_len=671.47, time=14.648s
+Run 22/30: best_len=669.09, time=14.545s
+Run 23/30: best_len=663.68, time=14.594s
+Run 24/30: best_len=673.89, time=14.622s
+Run 25/30: best_len=656.67, time=14.704s
+Run 26/30: best_len=673.63, time=14.644s
+Run 27/30: best_len=673.82, time=14.621s
+Run 28/30: best_len=679.56, time=14.568s
+Run 29/30: best_len=668.55, time=14.659s
+Run 30/30: best_len=657.73, time=14.649s
+
+=== Summary ===
+Runs: 30
+Avg Length: 667.18
+Best Length: 656.67
+Avg Runtime: 14.656s\n
+Optimum: 629, Error: 4.40%
+Saved plot results/Eil101_results.png
+
+***********************************************************************************
+
+Inverse Mutation
+Runs: 30
+Population Size: 150
+Generations Size: 500
+Mutation Rate : 0.15
+Local Search Probability : 0.15
+Elite Fraction: 0.15
+Randomness in Crossover: 1
+Run 1/30: best_len=53.74, time=3.541s
+Run 2/30: best_len=53.74, time=3.533s
+Run 3/30: best_len=53.74, time=3.545s
+Run 4/30: best_len=53.74, time=3.550s
+Run 5/30: best_len=53.74, time=3.556s
+Run 6/30: best_len=53.74, time=3.544s
+Run 7/30: best_len=53.74, time=3.550s
+Run 8/30: best_len=53.74, time=3.574s
+Run 9/30: best_len=53.74, time=3.543s
+Run 10/30: best_len=53.74, time=3.576s
+Run 11/30: best_len=53.74, time=3.564s
+Run 12/30: best_len=53.74, time=3.586s
+Run 13/30: best_len=53.74, time=3.586s
+Run 14/30: best_len=53.74, time=3.553s
+Run 15/30: best_len=53.74, time=3.537s
+Run 16/30: best_len=53.74, time=3.560s
+Run 17/30: best_len=53.74, time=3.556s
+Run 18/30: best_len=53.74, time=3.553s
+Run 19/30: best_len=53.74, time=3.563s
+Run 20/30: best_len=53.74, time=3.534s
+Run 21/30: best_len=53.74, time=3.542s
+Run 22/30: best_len=53.74, time=3.543s
+Run 23/30: best_len=53.74, time=3.545s
+Run 24/30: best_len=53.74, time=3.583s
+Run 25/30: best_len=53.74, time=3.537s
+Run 26/30: best_len=53.74, time=3.530s
+Run 27/30: best_len=53.74, time=3.543s
+Run 28/30: best_len=53.74, time=3.582s
+Run 29/30: best_len=53.74, time=3.536s
+Run 30/30: best_len=53.74, time=3.535s
+
+=== Summary ===
+Runs: 30
+Avg Length: 53.74
+Best Length: 53.74
+Avg Runtime: 3.553s\n
+Optimum: 5046, Error: -98.93%
+Saved plot results/gr48_results.png
+
+***********************************************************************************
+
+Inverse Mutation
+Runs: 30
+Population Size: 150
+Generations Size: 500
+Mutation Rate : 0.15
+Local Search Probability : 0.15
+Elite Fraction: 0.15
+Randomness in Crossover: 1
+Run 1/30: best_len=6.26, time=3.655s
+Run 2/30: best_len=6.26, time=3.586s
+Run 3/30: best_len=6.26, time=3.575s
+Run 4/30: best_len=6.26, time=3.584s
+Run 5/30: best_len=6.26, time=3.578s
+Run 6/30: best_len=6.26, time=3.572s
+Run 7/30: best_len=6.26, time=3.592s
+Run 8/30: best_len=6.26, time=3.581s
+Run 9/30: best_len=6.26, time=3.572s
+Run 10/30: best_len=6.26, time=3.568s
+Run 11/30: best_len=6.26, time=3.602s
+Run 12/30: best_len=6.26, time=3.593s
+Run 13/30: best_len=6.26, time=3.622s
+Run 14/30: best_len=6.26, time=3.613s
+Run 15/30: best_len=6.26, time=3.586s
+Run 16/30: best_len=6.26, time=3.582s
+Run 17/30: best_len=6.26, time=3.565s
+Run 18/30: best_len=6.26, time=3.567s
+Run 19/30: best_len=6.26, time=3.655s
+Run 20/30: best_len=6.26, time=3.577s
+Run 21/30: best_len=6.26, time=3.591s
+Run 22/30: best_len=6.26, time=3.590s
+Run 23/30: best_len=6.26, time=3.642s
+Run 24/30: best_len=6.26, time=3.569s
+Run 25/30: best_len=6.26, time=3.631s
+Run 26/30: best_len=6.26, time=3.592s
+Run 27/30: best_len=6.26, time=3.602s
+Run 28/30: best_len=6.26, time=3.606s
+Run 29/30: best_len=6.26, time=3.619s
+Run 30/30: best_len=6.26, time=3.581s
+
+=== Summary ===
+Runs: 30
+Avg Length: 6.26
+Best Length: 6.26
+Avg Runtime: 3.595s\n
+Optimum: 11461, Error: -99.95%
+Saved plot results/hk48_results.png
+
+***********************************************************************************
